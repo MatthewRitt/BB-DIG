@@ -13,3 +13,11 @@ Secretary of State (https://www.sos.alabama.gov/)
 Redistricting Hub (https://redistrictingdatahub.org/) 
 
 * ../../data_storage/raw_data/voter_data/AL_l2_2024_gen_stats_2020county.csv
+
+## How to Use
+The code outputs have already been generated for your convenience. The last output (the table)
+is the most important piece of this script.
+* `voted_difference_percent` displays the proportion of the difference in absolute values of total ballots cast for the SoS data and the RDH data.
+* `voted_difference` displays the absolute value of the difference in total ballots cast for the SoS data and the RDH data.
+* `reg_difference_percent` displays the proportion of the difference in absolute values of registration numbers for the SoS data and the RDH data.
+* `reg_difference` displays the absolute value of the difference in registration numbers for the SoS data and the RDH data.
