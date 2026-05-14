@@ -7,5 +7,9 @@ in the values between the two datasets. The script is also narrowed down to only
 names are detailed in our README file which you can find in this repository.
 
 ## Data Sources
-* ../../data_storage/raw_data/voter_data/2024_total_gen_election.xlsx from the Secretary of State (https://www.sos.alabama.gov/)
-* ../../data_storage/raw_data/voter_data/AL_l2_2024_gen_stats_2020county.csv from Redistricting Hub (https://redistrictingdatahub.org/) 
+Secretary of State (https://www.sos.alabama.gov/)
+* ../../data_storage/raw_data/voter_data/2024_total_gen_election.xlsx
+
+Redistricting Hub (https://redistrictingdatahub.org/) 
+
+* ../../data_storage/raw_data/voter_data/AL_l2_2024_gen_stats_2020county.csv
