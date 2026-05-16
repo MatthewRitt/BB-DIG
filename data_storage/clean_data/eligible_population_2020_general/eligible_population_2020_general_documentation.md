@@ -1,4 +1,5 @@
 # Eligible Population 2020 General Documentation
+
 ## Overview
 * This dataset shows the full picture of the eligible voting population in the 2020 General Election across the 17 Alabama Black Belt counties. Each row represents one county. The dataset details those eligible to vote, those who actually voted, and those who did not, all split up by race (Black, White, and Latinx).
 * This dataset is one of six datasets covering civic participation in the Alabama Black Belt. Each dataset uses a different denominator to answer a different question. The eligible_population files measure participation using the CVAP eligible population as the denominator. The voter_registration files measure registration access and purge risk using ALVR active and inactive counts. The voter_turnout files measure turnout using ALVR total registered voters (active plus inactive) as the denominator. Each file should be used together for the complete picture of civic participation in the region. See the data dictionaries for the other files for full details on their methodology
